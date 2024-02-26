@@ -1,0 +1,19 @@
+.main{
+    font-size: 20px;
+    margin-top: 20px;
+    padding: 0 20px;
+    p{
+        background-color: aqua;
+    }
+    div{
+       color: red;
+       h5{
+        color: green;
+        font-size: 50px;
+       } 
+    }
+    &_fm{
+        color: yellow;
+        background-color: black;
+    }
+}

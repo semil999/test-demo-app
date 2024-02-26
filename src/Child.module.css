@@ -1,0 +1,15 @@
+.h1{
+    background-color: red;
+    color: white;
+    margin-bottom: 50px;
+}
+
+.div{
+    font-size: 25px;
+    color: brown;
+    text-decoration: overline;
+}
+
+p{
+    background-color: aqua;
+}
